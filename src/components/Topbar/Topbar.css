@@ -1,0 +1,25 @@
+.title-container {
+  display: flex;
+  font-weight: bold;
+  padding-top: 10px;
+  padding-left: 300px;
+}
+.title-container .title-number {
+  font-size: 100px;
+  color: gray;
+}
+.title-container .title-context {
+  font-size: 20px;
+}
+.title-container .title-text {
+  padding-top: 70px;
+  color: rgb(1, 1, 58);
+}
+.title-container .title-dot {
+  font-size: 50px;
+  color: gray;
+}
+.content-team {
+  padding-left: 350px;
+  padding-right: 300px;
+}

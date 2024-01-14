@@ -1,0 +1,57 @@
+.topbar-container {
+  height: 100px;
+  background-color: red;
+}
+.team-container {
+  background: url("../../assets/images/bg_3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 500px;
+}
+.team-container .navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: "1rem";
+  background-color: #333;
+  color: white;
+  background-color: #4169e1;
+  margin-top: 20px;
+  height: 10px;
+}
+.team-container .navList {
+  margin-left: 270px;
+  list-style: none;
+  display: flex;
+  gap: 30px;
+}
+.team-container .navItem {
+  cursor: pointer;
+  color: #fff;
+  font-style: normal;
+}
+.team-container .link-item {
+  color: #000;
+}
+.team-container .link-item a:hover {
+  background-color: #b0c4de;
+}
+.team-body {
+  color: #000;
+}
+.schedule {
+  background-color: #fff;
+  width: 300px;
+  height: 200px;
+  margin-left: 300px;
+}
+h3 {
+  padding-left: 20px;
+}
+.schedule .list-container {
+  padding-left: 10px;
+}
+.schedule .list-vera-container {
+  padding-left: 10px;
+}
